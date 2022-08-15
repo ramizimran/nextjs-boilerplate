@@ -2,7 +2,7 @@
 
 # React-Mui Boilerplate
 
-**[🚀Preview Live](#)**
+**[🚀Preview Live](https://nextjs-mongodb-boilerplate.vercel.app/)**
 
 The starting point for your next project based on easy-to-customize Server-side and MUI helps you build apps faster and better.
 
