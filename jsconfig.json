@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "components/*": ["components/*"],
+      "hooks/*": ["hooks/*"],
+      "providers/*": ["providers/*"],
+      "utils/*": ["utils/*"],
+      "styles/*": ["styles/*"],
+      "pages/*": ["pages/*"],
+      "mocks/*": ["mocks/*"],
+      "themes/*": ["themes/*"],
+      "models/*": ["models/*"],
+      "libs/*": ["libs/*"]
+    }
+  }
+}

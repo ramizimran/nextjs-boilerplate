@@ -1,0 +1,41 @@
+{
+  "name": "next-js-boilerplate",
+  "version": "1.0.0",
+  "description": "A basic NextJs boilerplate",
+  "author": "Sizar Corpse",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramizimran/nextjs-boilerplate.git"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.7.1",
+    "@emotion/react": "^11.8.2",
+    "@emotion/server": "^11.4.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.5.1",
+    "@mui/lab": "^5.0.0-alpha.74",
+    "@mui/material": "^5.5.2",
+    "cloudinary": "^1.30.1",
+    "formik": "^2.2.9",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.2.8",
+    "next": "^12.2.5",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "slugify": "^1.6.5",
+    "swr": "^1.2.2",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.1"
+  }
+}
